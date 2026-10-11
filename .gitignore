@@ -1,0 +1,15 @@
+# Local R/RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor backup files
+*~
+*.swp
+
